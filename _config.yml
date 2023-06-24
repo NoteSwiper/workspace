@@ -1,0 +1,10 @@
+name: "workspace"
+title: "/workspace"
+
+url: "https://noteswiper.github.io/workspace/"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+sitemap: true
